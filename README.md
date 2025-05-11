@@ -6,7 +6,7 @@
 
 ## 🚀 获取登录凭证
 ### 1️⃣ 注册账号
-👉 [注册链接](https://profile.bluwhale.com/login?referral=7da0a708-9050-4573-9989-3a051e776164)
+👉 [注册链接](https://profile.bluwhale.com/login?referral=ed28c7d6-a101-4eb5-8293-181ca75035ec)
 
 ### 2️⃣ 获取Token
 1. 打开浏览器控制台 (`F12` > 控制台)
